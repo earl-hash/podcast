@@ -1,0 +1,21 @@
+{
+  "documents": {
+    "sample": {
+      "welcome": 0.08333333333333333,
+      "to": 0.08333333333333333,
+      "our": 0.08333333333333333,
+      "first": 0.08333333333333333,
+      "podcast": 0.08333333333333333,
+      "episode.": 0.08333333333333333,
+      "we": 0.08333333333333333,
+      "talk": 0.08333333333333333,
+      "about": 0.08333333333333333,
+      "technology": 0.08333333333333333,
+      "and": 0.08333333333333333,
+      "science.": 0.08333333333333333
+    }
+  },
+  "texts": {
+    "sample": "Welcome to our first podcast episode. We talk about technology and science.\n"
+  }
+}
